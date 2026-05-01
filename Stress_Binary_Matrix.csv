@@ -1,0 +1,1631 @@
+Ca_ID,Stress,Num_Stresses,Cold,Drought,Salinity,Heat
+Ca_00999,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_01536,"Cold, Drought, Heat",3,1,1,0,1
+Ca_01586,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_02453,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_02631,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_03702,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_04508,"Cold, Drought, Salinity",3,1,1,1,0
+Ca_05235,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_05646,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_05758,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_05893,"Cold, Drought, Salinity",3,1,1,1,0
+Ca_06009,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_06806,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_06847,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_09472,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_10044,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_10238,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_11795,"Cold, Drought, Salinity",3,1,1,1,0
+Ca_13297,"Cold, Drought, Salinity",3,1,1,1,0
+Ca_14143,"Cold, Drought, Salinity",3,1,1,1,0
+Ca_15398,"Cold, Drought, Salinity",3,1,1,1,0
+Ca_15698,"Cold, Drought, Salinity",3,1,1,1,0
+Ca_16001,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_17506,"Cold, Drought, Salinity",3,1,1,1,0
+Ca_18364,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_19097,"Cold, Drought, Salinity",3,1,1,1,0
+Ca_19226,"Cold, Drought, Salinity",3,1,1,1,0
+Ca_19295,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_19296,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_19297,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_21025,"Cold, Drought, Salinity",3,1,1,1,0
+Ca_21301,"Cold, Drought, Salinity",3,1,1,1,0
+Ca_21451,"Cold, Drought, Salinity",3,1,1,1,0
+Ca_21892,"Drought, Heat, Salinity",3,0,1,1,1
+Ca_00098,"Drought, Salinity",2,0,1,1,0
+Ca_00196,"Drought, Heat",2,0,1,0,1
+Ca_00425,"Drought, Heat",2,0,1,0,1
+Ca_00634,"Drought, Salinity",2,0,1,1,0
+Ca_00969,"Drought, Heat",2,0,1,0,1
+Ca_01063,"Cold, Salinity",2,1,0,1,0
+Ca_01236,"Drought, Salinity",2,0,1,1,0
+Ca_01321,"Drought, Salinity",2,0,1,1,0
+Ca_01374,"Drought, Heat",2,0,1,0,1
+Ca_01522,"Drought, Heat",2,0,1,0,1
+Ca_01655,"Drought, Heat",2,0,1,0,1
+Ca_01683,"Drought, Heat",2,0,1,0,1
+Ca_01825,"Cold, Salinity",2,1,0,1,0
+Ca_01844,"Drought, Heat",2,0,1,0,1
+Ca_02249,"Drought, Salinity",2,0,1,1,0
+Ca_02262,"Drought, Heat",2,0,1,0,1
+Ca_02311,"Drought, Heat",2,0,1,0,1
+Ca_02360,"Heat, Salinity",2,0,0,1,1
+Ca_02375,"Drought, Heat",2,0,1,0,1
+Ca_02389,"Drought, Salinity",2,0,1,1,0
+Ca_02390,"Drought, Salinity",2,0,1,1,0
+Ca_02867,"Drought, Salinity",2,0,1,1,0
+Ca_02925,"Drought, Heat",2,0,1,0,1
+Ca_02946,"Drought, Heat",2,0,1,0,1
+Ca_02969,"Drought, Heat",2,0,1,0,1
+Ca_02990,"Drought, Heat",2,0,1,0,1
+Ca_03148,"Heat, Salinity",2,0,0,1,1
+Ca_03171,"Drought, Heat",2,0,1,0,1
+Ca_03221,"Drought, Salinity",2,0,1,1,0
+Ca_03255,"Drought, Heat",2,0,1,0,1
+Ca_03482,"Drought, Heat",2,0,1,0,1
+Ca_03495,"Drought, Heat",2,0,1,0,1
+Ca_03501,"Drought, Heat",2,0,1,0,1
+Ca_03894,"Drought, Heat",2,0,1,0,1
+Ca_03943,"Drought, Heat",2,0,1,0,1
+Ca_04206,"Drought, Salinity",2,0,1,1,0
+Ca_04257,"Cold, Drought",2,1,1,0,0
+Ca_04383,"Drought, Heat",2,0,1,0,1
+Ca_04414,"Cold, Drought",2,1,1,0,0
+Ca_04504,"Drought, Heat",2,0,1,0,1
+Ca_04616,"Cold, Salinity",2,1,0,1,0
+Ca_04943,"Drought, Heat",2,0,1,0,1
+Ca_04947,"Drought, Heat",2,0,1,0,1
+Ca_04978,"Drought, Salinity",2,0,1,1,0
+Ca_04980,"Drought, Salinity",2,0,1,1,0
+Ca_05270,"Drought, Heat",2,0,1,0,1
+Ca_05567,"Drought, Heat",2,0,1,0,1
+Ca_05641,"Drought, Heat",2,0,1,0,1
+Ca_05659,"Drought, Salinity",2,0,1,1,0
+Ca_05754,"Heat, Salinity",2,0,0,1,1
+Ca_05787,"Drought, Heat",2,0,1,0,1
+Ca_05788,"Cold, Salinity",2,1,0,1,0
+Ca_05789,"Drought, Heat",2,0,1,0,1
+Ca_05813,"Drought, Heat",2,0,1,0,1
+Ca_05815,"Drought, Heat",2,0,1,0,1
+Ca_05816,"Heat, Salinity",2,0,0,1,1
+Ca_05863,"Drought, Heat",2,0,1,0,1
+Ca_06010,"Drought, Heat",2,0,1,0,1
+Ca_06299,"Drought, Heat",2,0,1,0,1
+Ca_06330,"Drought, Salinity",2,0,1,1,0
+Ca_06446,"Drought, Heat",2,0,1,0,1
+Ca_06746,"Cold, Salinity",2,1,0,1,0
+Ca_06887,"Heat, Salinity",2,0,0,1,1
+Ca_06902,"Drought, Heat",2,0,1,0,1
+Ca_06911,"Drought, Salinity",2,0,1,1,0
+Ca_06943,"Drought, Heat",2,0,1,0,1
+Ca_06944,"Drought, Salinity",2,0,1,1,0
+Ca_06986,"Drought, Salinity",2,0,1,1,0
+Ca_07196,"Drought, Heat",2,0,1,0,1
+Ca_07221,"Cold, Drought",2,1,1,0,0
+Ca_07366,"Cold, Drought",2,1,1,0,0
+Ca_07536,"Drought, Salinity",2,0,1,1,0
+Ca_07559,"Cold, Drought",2,1,1,0,0
+Ca_07586,"Drought, Salinity",2,0,1,1,0
+Ca_07629,"Drought, Salinity",2,0,1,1,0
+Ca_07755,"Drought, Heat",2,0,1,0,1
+Ca_08124,"Drought, Heat",2,0,1,0,1
+Ca_08436,"Drought, Heat",2,0,1,0,1
+Ca_08544,"Drought, Salinity",2,0,1,1,0
+Ca_08545,"Drought, Salinity",2,0,1,1,0
+Ca_08773,"Heat, Salinity",2,0,0,1,1
+Ca_09093,"Heat, Salinity",2,0,0,1,1
+Ca_09106,"Drought, Salinity",2,0,1,1,0
+Ca_09322,"Drought, Heat",2,0,1,0,1
+Ca_09495,"Heat, Salinity",2,0,0,1,1
+Ca_09540,"Cold, Salinity",2,1,0,1,0
+Ca_09648,"Cold, Heat",2,1,0,0,1
+Ca_09780,"Drought, Salinity",2,0,1,1,0
+Ca_09884,"Drought, Salinity",2,0,1,1,0
+Ca_10086,"Drought, Salinity",2,0,1,1,0
+Ca_10103,"Heat, Salinity",2,0,0,1,1
+Ca_10292,"Drought, Heat",2,0,1,0,1
+Ca_10320,"Drought, Heat",2,0,1,0,1
+Ca_10354,"Drought, Salinity",2,0,1,1,0
+Ca_10820,"Drought, Salinity",2,0,1,1,0
+Ca_10890,"Cold, Drought",2,1,1,0,0
+Ca_11350,"Drought, Salinity",2,0,1,1,0
+Ca_11416,"Heat, Salinity",2,0,0,1,1
+Ca_11493,"Heat, Salinity",2,0,0,1,1
+Ca_11628,"Drought, Salinity",2,0,1,1,0
+Ca_11789,"Cold, Drought",2,1,1,0,0
+Ca_12404,"Drought, Salinity",2,0,1,1,0
+Ca_12474,"Drought, Heat",2,0,1,0,1
+Ca_12499,"Drought, Salinity",2,0,1,1,0
+Ca_12650,"Drought, Salinity",2,0,1,1,0
+Ca_13108,"Drought, Heat",2,0,1,0,1
+Ca_13143,"Cold, Drought",2,1,1,0,0
+Ca_13380,"Drought, Salinity",2,0,1,1,0
+Ca_13637,"Drought, Salinity",2,0,1,1,0
+Ca_13716,"Cold, Salinity",2,1,0,1,0
+Ca_13735,"Drought, Salinity",2,0,1,1,0
+Ca_13970,"Drought, Heat",2,0,1,0,1
+Ca_14076,"Heat, Salinity",2,0,0,1,1
+Ca_14119,"Drought, Salinity",2,0,1,1,0
+Ca_14130,"Drought, Heat",2,0,1,0,1
+Ca_14364,"Drought, Heat",2,0,1,0,1
+Ca_14438,"Drought, Heat",2,0,1,0,1
+Ca_14452,"Drought, Heat",2,0,1,0,1
+Ca_14752,"Drought, Salinity",2,0,1,1,0
+Ca_14770,"Drought, Heat",2,0,1,0,1
+Ca_15055,"Drought, Heat",2,0,1,0,1
+Ca_15064,"Drought, Heat",2,0,1,0,1
+Ca_15103,"Cold, Salinity",2,1,0,1,0
+Ca_15134,"Drought, Heat",2,0,1,0,1
+Ca_15330,"Drought, Heat",2,0,1,0,1
+Ca_15333,"Cold, Drought",2,1,1,0,0
+Ca_15423,"Drought, Salinity",2,0,1,1,0
+Ca_15454,"Cold, Salinity",2,1,0,1,0
+Ca_15576,"Drought, Salinity",2,0,1,1,0
+Ca_15624,"Drought, Salinity",2,0,1,1,0
+Ca_15786,"Drought, Heat",2,0,1,0,1
+Ca_15805,"Cold, Drought",2,1,1,0,0
+Ca_15967,"Drought, Salinity",2,0,1,1,0
+Ca_15968,"Drought, Salinity",2,0,1,1,0
+Ca_15971,"Drought, Heat",2,0,1,0,1
+Ca_16002,"Drought, Salinity",2,0,1,1,0
+Ca_16068,"Drought, Heat",2,0,1,0,1
+Ca_16279,"Drought, Salinity",2,0,1,1,0
+Ca_16280,"Drought, Salinity",2,0,1,1,0
+Ca_16281,"Drought, Salinity",2,0,1,1,0
+Ca_16284,"Heat, Salinity",2,0,0,1,1
+Ca_16462,"Drought, Heat",2,0,1,0,1
+Ca_16558,"Drought, Salinity",2,0,1,1,0
+Ca_16612,"Heat, Salinity",2,0,0,1,1
+Ca_16630,"Cold, Drought",2,1,1,0,0
+Ca_16888,"Cold, Salinity",2,1,0,1,0
+Ca_17157,"Drought, Salinity",2,0,1,1,0
+Ca_17159,"Drought, Heat",2,0,1,0,1
+Ca_17213,"Heat, Salinity",2,0,0,1,1
+Ca_17709,"Drought, Salinity",2,0,1,1,0
+Ca_18081,"Drought, Salinity",2,0,1,1,0
+Ca_18084,"Heat, Salinity",2,0,0,1,1
+Ca_18112,"Drought, Heat",2,0,1,0,1
+Ca_18303,"Drought, Salinity",2,0,1,1,0
+Ca_18353,"Drought, Salinity",2,0,1,1,0
+Ca_19302,"Drought, Heat",2,0,1,0,1
+Ca_19433,"Drought, Heat",2,0,1,0,1
+Ca_19680,"Drought, Heat",2,0,1,0,1
+Ca_19895,"Drought, Salinity",2,0,1,1,0
+Ca_19899,"Drought, Salinity",2,0,1,1,0
+Ca_20071,"Cold, Drought",2,1,1,0,0
+Ca_20181,"Drought, Salinity",2,0,1,1,0
+Ca_20265,"Heat, Salinity",2,0,0,1,1
+Ca_20476,"Drought, Heat",2,0,1,0,1
+Ca_20876,"Drought, Heat",2,0,1,0,1
+Ca_21067,"Drought, Salinity",2,0,1,1,0
+Ca_21204,"Heat, Salinity",2,0,0,1,1
+Ca_21401,"Drought, Heat",2,0,1,0,1
+Ca_21402,"Drought, Salinity",2,0,1,1,0
+Ca_21460,"Drought, Heat",2,0,1,0,1
+Ca_22164,"Heat, Salinity",2,0,0,1,1
+Ca_22198,"Drought, Heat",2,0,1,0,1
+Ca_22917,"Drought, Heat",2,0,1,0,1
+Ca_22983,"Drought, Heat",2,0,1,0,1
+Ca_23047,"Drought, Heat",2,0,1,0,1
+Ca_23117,"Heat, Salinity",2,0,0,1,1
+Ca_24014,"Drought, Salinity",2,0,1,1,0
+Ca_24150,"Drought, Heat",2,0,1,0,1
+Ca_24272,"Drought, Salinity",2,0,1,1,0
+Ca_24536,"Drought, Heat",2,0,1,0,1
+Ca_25390,"Drought, Heat",2,0,1,0,1
+Ca_26021,"Drought, Salinity",2,0,1,1,0
+Ca_26451,"Heat, Salinity",2,0,0,1,1
+Ca_26882,"Drought, Salinity",2,0,1,1,0
+Ca_27665,"Drought, Salinity",2,0,1,1,0
+Ca_00003,Drought,1,0,1,0,0
+Ca_00011,Heat,1,0,0,0,1
+Ca_00054,Salinity,1,0,0,1,0
+Ca_00102,Heat,1,0,0,0,1
+Ca_00110,Salinity,1,0,0,1,0
+Ca_00121,Heat,1,0,0,0,1
+Ca_00125,Drought,1,0,1,0,0
+Ca_00136,Drought,1,0,1,0,0
+Ca_00143,Drought,1,0,1,0,0
+Ca_00145,Salinity,1,0,0,1,0
+Ca_00154,Drought,1,0,1,0,0
+Ca_00155,Salinity,1,0,0,1,0
+Ca_00160,Heat,1,0,0,0,1
+Ca_00168,Salinity,1,0,0,1,0
+Ca_00180,Heat,1,0,0,0,1
+Ca_00206,Salinity,1,0,0,1,0
+Ca_00216,Heat,1,0,0,0,1
+Ca_00252,Heat,1,0,0,0,1
+Ca_00255,Heat,1,0,0,0,1
+Ca_00258,Salinity,1,0,0,1,0
+Ca_00278,Salinity,1,0,0,1,0
+Ca_00284,Cold,1,1,0,0,0
+Ca_00295,Heat,1,0,0,0,1
+Ca_00308,Drought,1,0,1,0,0
+Ca_00309,Drought,1,0,1,0,0
+Ca_00326,Heat,1,0,0,0,1
+Ca_00348,Salinity,1,0,0,1,0
+Ca_00363,Heat,1,0,0,0,1
+Ca_00371,Salinity,1,0,0,1,0
+Ca_00384,Heat,1,0,0,0,1
+Ca_00386,Salinity,1,0,0,1,0
+Ca_00391,Drought,1,0,1,0,0
+Ca_00398,Drought,1,0,1,0,0
+Ca_00414,Drought,1,0,1,0,0
+Ca_00422,Drought,1,0,1,0,0
+Ca_00435,Heat,1,0,0,0,1
+Ca_00438,Salinity,1,0,0,1,0
+Ca_00452,Heat,1,0,0,0,1
+Ca_00465,Drought,1,0,1,0,0
+Ca_00466,Drought,1,0,1,0,0
+Ca_00488,Heat,1,0,0,0,1
+Ca_00497,Heat,1,0,0,0,1
+Ca_00551,Heat,1,0,0,0,1
+Ca_00589,Heat,1,0,0,0,1
+Ca_00602,Salinity,1,0,0,1,0
+Ca_00605,Heat,1,0,0,0,1
+Ca_00609,Salinity,1,0,0,1,0
+Ca_00611,Heat,1,0,0,0,1
+Ca_00612,Salinity,1,0,0,1,0
+Ca_00620,Heat,1,0,0,0,1
+Ca_00643,Heat,1,0,0,0,1
+Ca_00648,Drought,1,0,1,0,0
+Ca_00650,Salinity,1,0,0,1,0
+Ca_00651,Drought,1,0,1,0,0
+Ca_00653,Salinity,1,0,0,1,0
+Ca_00675,Cold,1,1,0,0,0
+Ca_00679,Heat,1,0,0,0,1
+Ca_00701,Heat,1,0,0,0,1
+Ca_00704,Heat,1,0,0,0,1
+Ca_00726,Salinity,1,0,0,1,0
+Ca_00733,Salinity,1,0,0,1,0
+Ca_00745,Salinity,1,0,0,1,0
+Ca_00754,Heat,1,0,0,0,1
+Ca_00835,Salinity,1,0,0,1,0
+Ca_00843,Heat,1,0,0,0,1
+Ca_00844,Drought,1,0,1,0,0
+Ca_00860,Drought,1,0,1,0,0
+Ca_00861,Drought,1,0,1,0,0
+Ca_00890,Heat,1,0,0,0,1
+Ca_00891,Heat,1,0,0,0,1
+Ca_00947,Salinity,1,0,0,1,0
+Ca_00955,Heat,1,0,0,0,1
+Ca_00975,Heat,1,0,0,0,1
+Ca_01016,Salinity,1,0,0,1,0
+Ca_01018,Heat,1,0,0,0,1
+Ca_01026,Heat,1,0,0,0,1
+Ca_01036,Salinity,1,0,0,1,0
+Ca_01041,Drought,1,0,1,0,0
+Ca_01042,Drought,1,0,1,0,0
+Ca_01059,Drought,1,0,1,0,0
+Ca_01065,Drought,1,0,1,0,0
+Ca_01070,Heat,1,0,0,0,1
+Ca_01072,Heat,1,0,0,0,1
+Ca_01073,Heat,1,0,0,0,1
+Ca_01074,Salinity,1,0,0,1,0
+Ca_01082,Salinity,1,0,0,1,0
+Ca_01088,Salinity,1,0,0,1,0
+Ca_01090,Drought,1,0,1,0,0
+Ca_01096,Cold,1,1,0,0,0
+Ca_01127,Heat,1,0,0,0,1
+Ca_01147,Salinity,1,0,0,1,0
+Ca_01164,Drought,1,0,1,0,0
+Ca_01175,Salinity,1,0,0,1,0
+Ca_01180,Heat,1,0,0,0,1
+Ca_01234,Heat,1,0,0,0,1
+Ca_01247,Drought,1,0,1,0,0
+Ca_01251,Drought,1,0,1,0,0
+Ca_01254,Salinity,1,0,0,1,0
+Ca_01285,Salinity,1,0,0,1,0
+Ca_01286,Salinity,1,0,0,1,0
+Ca_01295,Salinity,1,0,0,1,0
+Ca_01298,Salinity,1,0,0,1,0
+Ca_01306,Heat,1,0,0,0,1
+Ca_01311,Salinity,1,0,0,1,0
+Ca_01316,Salinity,1,0,0,1,0
+Ca_01318,Heat,1,0,0,0,1
+Ca_01335,Drought,1,0,1,0,0
+Ca_01337,Heat,1,0,0,0,1
+Ca_01338,Drought,1,0,1,0,0
+Ca_01369,Heat,1,0,0,0,1
+Ca_01375,Heat,1,0,0,0,1
+Ca_01402,Heat,1,0,0,0,1
+Ca_01455,Drought,1,0,1,0,0
+Ca_01464,Salinity,1,0,0,1,0
+Ca_01477,Drought,1,0,1,0,0
+Ca_01495,Heat,1,0,0,0,1
+Ca_01497,Salinity,1,0,0,1,0
+Ca_01513,Salinity,1,0,0,1,0
+Ca_01521,Salinity,1,0,0,1,0
+Ca_01531,Heat,1,0,0,0,1
+Ca_01557,Heat,1,0,0,0,1
+Ca_01563,Drought,1,0,1,0,0
+Ca_01612,Heat,1,0,0,0,1
+Ca_01616,Heat,1,0,0,0,1
+Ca_01619,Heat,1,0,0,0,1
+Ca_01626,Heat,1,0,0,0,1
+Ca_01636,Heat,1,0,0,0,1
+Ca_01639,Salinity,1,0,0,1,0
+Ca_01640,Heat,1,0,0,0,1
+Ca_01653,Heat,1,0,0,0,1
+Ca_01669,Salinity,1,0,0,1,0
+Ca_01691,Salinity,1,0,0,1,0
+Ca_01707,Salinity,1,0,0,1,0
+Ca_01713,Heat,1,0,0,0,1
+Ca_01720,Salinity,1,0,0,1,0
+Ca_01746,Heat,1,0,0,0,1
+Ca_01810,Heat,1,0,0,0,1
+Ca_01832,Drought,1,0,1,0,0
+Ca_01845,Cold,1,1,0,0,0
+Ca_01853,Heat,1,0,0,0,1
+Ca_01854,Heat,1,0,0,0,1
+Ca_01862,Drought,1,0,1,0,0
+Ca_01865,Heat,1,0,0,0,1
+Ca_01873,Heat,1,0,0,0,1
+Ca_01914,Salinity,1,0,0,1,0
+Ca_01915,Salinity,1,0,0,1,0
+Ca_01929,Drought,1,0,1,0,0
+Ca_01930,Salinity,1,0,0,1,0
+Ca_01960,Drought,1,0,1,0,0
+Ca_01963,Heat,1,0,0,0,1
+Ca_01974,Drought,1,0,1,0,0
+Ca_01986,Cold,1,1,0,0,0
+Ca_02045,Heat,1,0,0,0,1
+Ca_02098,Heat,1,0,0,0,1
+Ca_02100,Drought,1,0,1,0,0
+Ca_02116,Heat,1,0,0,0,1
+Ca_02124,Heat,1,0,0,0,1
+Ca_02133,Salinity,1,0,0,1,0
+Ca_02146,Drought,1,0,1,0,0
+Ca_02201,Heat,1,0,0,0,1
+Ca_02202,Cold,1,1,0,0,0
+Ca_02208,Heat,1,0,0,0,1
+Ca_02226,Salinity,1,0,0,1,0
+Ca_02239,Drought,1,0,1,0,0
+Ca_02248,Drought,1,0,1,0,0
+Ca_02276,Heat,1,0,0,0,1
+Ca_02279,Salinity,1,0,0,1,0
+Ca_02285,Drought,1,0,1,0,0
+Ca_02303,Cold,1,1,0,0,0
+Ca_02307,Salinity,1,0,0,1,0
+Ca_02308,Drought,1,0,1,0,0
+Ca_02325,Drought,1,0,1,0,0
+Ca_02336,Salinity,1,0,0,1,0
+Ca_02345,Salinity,1,0,0,1,0
+Ca_02347,Heat,1,0,0,0,1
+Ca_02358,Drought,1,0,1,0,0
+Ca_02369,Heat,1,0,0,0,1
+Ca_02407,Drought,1,0,1,0,0
+Ca_02410,Drought,1,0,1,0,0
+Ca_02422,Heat,1,0,0,0,1
+Ca_02457,Heat,1,0,0,0,1
+Ca_02464,Cold,1,1,0,0,0
+Ca_02465,Heat,1,0,0,0,1
+Ca_02470,Salinity,1,0,0,1,0
+Ca_02485,Drought,1,0,1,0,0
+Ca_02568,Heat,1,0,0,0,1
+Ca_02582,Heat,1,0,0,0,1
+Ca_02585,Heat,1,0,0,0,1
+Ca_02593,Heat,1,0,0,0,1
+Ca_02596,Heat,1,0,0,0,1
+Ca_02609,Heat,1,0,0,0,1
+Ca_02618,Drought,1,0,1,0,0
+Ca_02620,Salinity,1,0,0,1,0
+Ca_02641,Drought,1,0,1,0,0
+Ca_02650,Salinity,1,0,0,1,0
+Ca_02685,Heat,1,0,0,0,1
+Ca_02689,Heat,1,0,0,0,1
+Ca_02708,Drought,1,0,1,0,0
+Ca_02709,Drought,1,0,1,0,0
+Ca_02710,Salinity,1,0,0,1,0
+Ca_02713,Salinity,1,0,0,1,0
+Ca_02716,Cold,1,1,0,0,0
+Ca_02720,Salinity,1,0,0,1,0
+Ca_02723,Drought,1,0,1,0,0
+Ca_02727,Salinity,1,0,0,1,0
+Ca_02794,Heat,1,0,0,0,1
+Ca_02813,Heat,1,0,0,0,1
+Ca_02839,Heat,1,0,0,0,1
+Ca_02850,Heat,1,0,0,0,1
+Ca_02855,Drought,1,0,1,0,0
+Ca_02857,Salinity,1,0,0,1,0
+Ca_02889,Salinity,1,0,0,1,0
+Ca_02897,Salinity,1,0,0,1,0
+Ca_02935,Drought,1,0,1,0,0
+Ca_02959,Heat,1,0,0,0,1
+Ca_02968,Drought,1,0,1,0,0
+Ca_02982,Heat,1,0,0,0,1
+Ca_02983,Heat,1,0,0,0,1
+Ca_02986,Drought,1,0,1,0,0
+Ca_02987,Heat,1,0,0,0,1
+Ca_03006,Salinity,1,0,0,1,0
+Ca_03036,Heat,1,0,0,0,1
+Ca_03068,Salinity,1,0,0,1,0
+Ca_03075,Salinity,1,0,0,1,0
+Ca_03076,Heat,1,0,0,0,1
+Ca_03106,Heat,1,0,0,0,1
+Ca_03107,Heat,1,0,0,0,1
+Ca_03109,Drought,1,0,1,0,0
+Ca_03120,Heat,1,0,0,0,1
+Ca_03133,Drought,1,0,1,0,0
+Ca_03159,Drought,1,0,1,0,0
+Ca_03174,Drought,1,0,1,0,0
+Ca_03181,Drought,1,0,1,0,0
+Ca_03200,Heat,1,0,0,0,1
+Ca_03226,Drought,1,0,1,0,0
+Ca_03240,Heat,1,0,0,0,1
+Ca_03248,Drought,1,0,1,0,0
+Ca_03259,Drought,1,0,1,0,0
+Ca_03260,Drought,1,0,1,0,0
+Ca_03261,Drought,1,0,1,0,0
+Ca_03263,Cold,1,1,0,0,0
+Ca_03270,Heat,1,0,0,0,1
+Ca_03275,Salinity,1,0,0,1,0
+Ca_03283,Heat,1,0,0,0,1
+Ca_03285,Cold,1,1,0,0,0
+Ca_03299,Drought,1,0,1,0,0
+Ca_03344,Salinity,1,0,0,1,0
+Ca_03345,Salinity,1,0,0,1,0
+Ca_03350,Salinity,1,0,0,1,0
+Ca_03375,Heat,1,0,0,0,1
+Ca_03381,Drought,1,0,1,0,0
+Ca_03391,Salinity,1,0,0,1,0
+Ca_03396,Heat,1,0,0,0,1
+Ca_03416,Heat,1,0,0,0,1
+Ca_03423,Drought,1,0,1,0,0
+Ca_03427,Heat,1,0,0,0,1
+Ca_03429,Salinity,1,0,0,1,0
+Ca_03448,Drought,1,0,1,0,0
+Ca_03459,Salinity,1,0,0,1,0
+Ca_03478,Salinity,1,0,0,1,0
+Ca_03481,Drought,1,0,1,0,0
+Ca_03494,Heat,1,0,0,0,1
+Ca_03519,Drought,1,0,1,0,0
+Ca_03523,Heat,1,0,0,0,1
+Ca_03535,Drought,1,0,1,0,0
+Ca_03536,Heat,1,0,0,0,1
+Ca_03551,Drought,1,0,1,0,0
+Ca_03568,Salinity,1,0,0,1,0
+Ca_03571,Salinity,1,0,0,1,0
+Ca_03572,Heat,1,0,0,0,1
+Ca_03584,Heat,1,0,0,0,1
+Ca_03604,Cold,1,1,0,0,0
+Ca_03614,Heat,1,0,0,0,1
+Ca_03617,Heat,1,0,0,0,1
+Ca_03627,Drought,1,0,1,0,0
+Ca_03656,Drought,1,0,1,0,0
+Ca_03659,Drought,1,0,1,0,0
+Ca_03660,Salinity,1,0,0,1,0
+Ca_03681,Drought,1,0,1,0,0
+Ca_03700,Heat,1,0,0,0,1
+Ca_03722,Salinity,1,0,0,1,0
+Ca_03723,Salinity,1,0,0,1,0
+Ca_03727,Heat,1,0,0,0,1
+Ca_03741,Salinity,1,0,0,1,0
+Ca_03842,Heat,1,0,0,0,1
+Ca_03855,Heat,1,0,0,0,1
+Ca_03861,Heat,1,0,0,0,1
+Ca_03887,Heat,1,0,0,0,1
+Ca_03899,Salinity,1,0,0,1,0
+Ca_03911,Heat,1,0,0,0,1
+Ca_03926,Drought,1,0,1,0,0
+Ca_03934,Drought,1,0,1,0,0
+Ca_03948,Salinity,1,0,0,1,0
+Ca_03952,Drought,1,0,1,0,0
+Ca_03966,Salinity,1,0,0,1,0
+Ca_04007,Drought,1,0,1,0,0
+Ca_04016,Drought,1,0,1,0,0
+Ca_04022,Cold,1,1,0,0,0
+Ca_04027,Heat,1,0,0,0,1
+Ca_04051,Salinity,1,0,0,1,0
+Ca_04052,Drought,1,0,1,0,0
+Ca_04066,Salinity,1,0,0,1,0
+Ca_04079,Salinity,1,0,0,1,0
+Ca_04085,Drought,1,0,1,0,0
+Ca_04100,Heat,1,0,0,0,1
+Ca_04106,Heat,1,0,0,0,1
+Ca_04109,Salinity,1,0,0,1,0
+Ca_04111,Heat,1,0,0,0,1
+Ca_04141,Drought,1,0,1,0,0
+Ca_04144,Heat,1,0,0,0,1
+Ca_04153,Heat,1,0,0,0,1
+Ca_04165,Heat,1,0,0,0,1
+Ca_04168,Heat,1,0,0,0,1
+Ca_04196,Drought,1,0,1,0,0
+Ca_04204,Heat,1,0,0,0,1
+Ca_04233,Heat,1,0,0,0,1
+Ca_04282,Drought,1,0,1,0,0
+Ca_04287,Heat,1,0,0,0,1
+Ca_04304,Drought,1,0,1,0,0
+Ca_04307,Heat,1,0,0,0,1
+Ca_04334,Heat,1,0,0,0,1
+Ca_04351,Salinity,1,0,0,1,0
+Ca_04356,Heat,1,0,0,0,1
+Ca_04369,Drought,1,0,1,0,0
+Ca_04370,Heat,1,0,0,0,1
+Ca_04371,Salinity,1,0,0,1,0
+Ca_04398,Heat,1,0,0,0,1
+Ca_04405,Heat,1,0,0,0,1
+Ca_04406,Drought,1,0,1,0,0
+Ca_04447,Drought,1,0,1,0,0
+Ca_04473,Drought,1,0,1,0,0
+Ca_04485,Heat,1,0,0,0,1
+Ca_04494,Heat,1,0,0,0,1
+Ca_04503,Drought,1,0,1,0,0
+Ca_04507,Heat,1,0,0,0,1
+Ca_04521,Heat,1,0,0,0,1
+Ca_04526,Heat,1,0,0,0,1
+Ca_04528,Drought,1,0,1,0,0
+Ca_04529,Heat,1,0,0,0,1
+Ca_04530,Heat,1,0,0,0,1
+Ca_04537,Heat,1,0,0,0,1
+Ca_04555,Salinity,1,0,0,1,0
+Ca_04579,Heat,1,0,0,0,1
+Ca_04607,Salinity,1,0,0,1,0
+Ca_04622,Salinity,1,0,0,1,0
+Ca_04623,Salinity,1,0,0,1,0
+Ca_04638,Salinity,1,0,0,1,0
+Ca_04706,Heat,1,0,0,0,1
+Ca_04707,Heat,1,0,0,0,1
+Ca_04710,Heat,1,0,0,0,1
+Ca_04732,Heat,1,0,0,0,1
+Ca_04734,Salinity,1,0,0,1,0
+Ca_04745,Salinity,1,0,0,1,0
+Ca_04777,Salinity,1,0,0,1,0
+Ca_04778,Heat,1,0,0,0,1
+Ca_04780,Drought,1,0,1,0,0
+Ca_04788,Salinity,1,0,0,1,0
+Ca_04795,Salinity,1,0,0,1,0
+Ca_04796,Heat,1,0,0,0,1
+Ca_04840,Cold,1,1,0,0,0
+Ca_04847,Drought,1,0,1,0,0
+Ca_04863,Drought,1,0,1,0,0
+Ca_04874,Salinity,1,0,0,1,0
+Ca_04877,Drought,1,0,1,0,0
+Ca_04902,Salinity,1,0,0,1,0
+Ca_04909,Salinity,1,0,0,1,0
+Ca_04946,Heat,1,0,0,0,1
+Ca_04967,Drought,1,0,1,0,0
+Ca_04974,Drought,1,0,1,0,0
+Ca_04993,Heat,1,0,0,0,1
+Ca_05018,Heat,1,0,0,0,1
+Ca_05071,Heat,1,0,0,0,1
+Ca_05073,Drought,1,0,1,0,0
+Ca_05081,Heat,1,0,0,0,1
+Ca_05110,Heat,1,0,0,0,1
+Ca_05112,Heat,1,0,0,0,1
+Ca_05126,Heat,1,0,0,0,1
+Ca_05156,Heat,1,0,0,0,1
+Ca_05165,Heat,1,0,0,0,1
+Ca_05233,Heat,1,0,0,0,1
+Ca_05282,Drought,1,0,1,0,0
+Ca_05287,Heat,1,0,0,0,1
+Ca_05314,Drought,1,0,1,0,0
+Ca_05328,Salinity,1,0,0,1,0
+Ca_05353,Salinity,1,0,0,1,0
+Ca_05356,Salinity,1,0,0,1,0
+Ca_05357,Salinity,1,0,0,1,0
+Ca_05368,Drought,1,0,1,0,0
+Ca_05393,Drought,1,0,1,0,0
+Ca_05426,Drought,1,0,1,0,0
+Ca_05454,Heat,1,0,0,0,1
+Ca_05462,Heat,1,0,0,0,1
+Ca_05489,Salinity,1,0,0,1,0
+Ca_05499,Drought,1,0,1,0,0
+Ca_05500,Drought,1,0,1,0,0
+Ca_05503,Drought,1,0,1,0,0
+Ca_05514,Heat,1,0,0,0,1
+Ca_05537,Salinity,1,0,0,1,0
+Ca_05546,Heat,1,0,0,0,1
+Ca_05547,Heat,1,0,0,0,1
+Ca_05559,Heat,1,0,0,0,1
+Ca_05560,Drought,1,0,1,0,0
+Ca_05576,Drought,1,0,1,0,0
+Ca_05578,Drought,1,0,1,0,0
+Ca_05611,Drought,1,0,1,0,0
+Ca_05622,Heat,1,0,0,0,1
+Ca_05696,Heat,1,0,0,0,1
+Ca_05699,Heat,1,0,0,0,1
+Ca_05709,Salinity,1,0,0,1,0
+Ca_05710,Salinity,1,0,0,1,0
+Ca_05719,Drought,1,0,1,0,0
+Ca_05720,Heat,1,0,0,0,1
+Ca_05725,Drought,1,0,1,0,0
+Ca_05736,Drought,1,0,1,0,0
+Ca_05737,Drought,1,0,1,0,0
+Ca_05740,Heat,1,0,0,0,1
+Ca_05750,Salinity,1,0,0,1,0
+Ca_05780,Heat,1,0,0,0,1
+Ca_05782,Heat,1,0,0,0,1
+Ca_05790,Heat,1,0,0,0,1
+Ca_05806,Salinity,1,0,0,1,0
+Ca_05832,Salinity,1,0,0,1,0
+Ca_05841,Heat,1,0,0,0,1
+Ca_05860,Heat,1,0,0,0,1
+Ca_05883,Heat,1,0,0,0,1
+Ca_05905,Drought,1,0,1,0,0
+Ca_05908,Salinity,1,0,0,1,0
+Ca_05937,Salinity,1,0,0,1,0
+Ca_05949,Cold,1,1,0,0,0
+Ca_05983,Heat,1,0,0,0,1
+Ca_05997,Salinity,1,0,0,1,0
+Ca_06008,Heat,1,0,0,0,1
+Ca_06012,Drought,1,0,1,0,0
+Ca_06016,Heat,1,0,0,0,1
+Ca_06032,Salinity,1,0,0,1,0
+Ca_06034,Salinity,1,0,0,1,0
+Ca_06096,Salinity,1,0,0,1,0
+Ca_06117,Heat,1,0,0,0,1
+Ca_06126,Drought,1,0,1,0,0
+Ca_06142,Cold,1,1,0,0,0
+Ca_06165,Salinity,1,0,0,1,0
+Ca_06186,Salinity,1,0,0,1,0
+Ca_06227,Drought,1,0,1,0,0
+Ca_06237,Cold,1,1,0,0,0
+Ca_06310,Drought,1,0,1,0,0
+Ca_06313,Heat,1,0,0,0,1
+Ca_06339,Heat,1,0,0,0,1
+Ca_06363,Drought,1,0,1,0,0
+Ca_06367,Heat,1,0,0,0,1
+Ca_06452,Heat,1,0,0,0,1
+Ca_06468,Heat,1,0,0,0,1
+Ca_06488,Heat,1,0,0,0,1
+Ca_06500,Heat,1,0,0,0,1
+Ca_06513,Salinity,1,0,0,1,0
+Ca_06523,Heat,1,0,0,0,1
+Ca_06549,Salinity,1,0,0,1,0
+Ca_06561,Drought,1,0,1,0,0
+Ca_06571,Salinity,1,0,0,1,0
+Ca_06582,Heat,1,0,0,0,1
+Ca_06592,Drought,1,0,1,0,0
+Ca_06604,Salinity,1,0,0,1,0
+Ca_06626,Drought,1,0,1,0,0
+Ca_06646,Drought,1,0,1,0,0
+Ca_06654,Drought,1,0,1,0,0
+Ca_06702,Heat,1,0,0,0,1
+Ca_06735,Salinity,1,0,0,1,0
+Ca_06745,Cold,1,1,0,0,0
+Ca_06750,Heat,1,0,0,0,1
+Ca_06753,Drought,1,0,1,0,0
+Ca_06804,Drought,1,0,1,0,0
+Ca_06821,Heat,1,0,0,0,1
+Ca_06899,Heat,1,0,0,0,1
+Ca_06901,Heat,1,0,0,0,1
+Ca_06908,Heat,1,0,0,0,1
+Ca_06912,Heat,1,0,0,0,1
+Ca_06923,Drought,1,0,1,0,0
+Ca_06924,Drought,1,0,1,0,0
+Ca_06932,Drought,1,0,1,0,0
+Ca_06940,Salinity,1,0,0,1,0
+Ca_06963,Drought,1,0,1,0,0
+Ca_06968,Salinity,1,0,0,1,0
+Ca_06988,Heat,1,0,0,0,1
+Ca_06997,Salinity,1,0,0,1,0
+Ca_07030,Drought,1,0,1,0,0
+Ca_07036,Heat,1,0,0,0,1
+Ca_07055,Salinity,1,0,0,1,0
+Ca_07072,Heat,1,0,0,0,1
+Ca_07081,Heat,1,0,0,0,1
+Ca_07091,Heat,1,0,0,0,1
+Ca_07120,Salinity,1,0,0,1,0
+Ca_07123,Heat,1,0,0,0,1
+Ca_07141,Heat,1,0,0,0,1
+Ca_07145,Drought,1,0,1,0,0
+Ca_07146,Heat,1,0,0,0,1
+Ca_07147,Heat,1,0,0,0,1
+Ca_07166,Drought,1,0,1,0,0
+Ca_07192,Heat,1,0,0,0,1
+Ca_07199,Heat,1,0,0,0,1
+Ca_07202,Heat,1,0,0,0,1
+Ca_07230,Drought,1,0,1,0,0
+Ca_07234,Heat,1,0,0,0,1
+Ca_07272,Salinity,1,0,0,1,0
+Ca_07285,Heat,1,0,0,0,1
+Ca_07290,Heat,1,0,0,0,1
+Ca_07291,Heat,1,0,0,0,1
+Ca_07309,Salinity,1,0,0,1,0
+Ca_07322,Heat,1,0,0,0,1
+Ca_07326,Salinity,1,0,0,1,0
+Ca_07337,Drought,1,0,1,0,0
+Ca_07338,Heat,1,0,0,0,1
+Ca_07375,Cold,1,1,0,0,0
+Ca_07423,Heat,1,0,0,0,1
+Ca_07431,Heat,1,0,0,0,1
+Ca_07438,Heat,1,0,0,0,1
+Ca_07462,Salinity,1,0,0,1,0
+Ca_07467,Drought,1,0,1,0,0
+Ca_07508,Heat,1,0,0,0,1
+Ca_07521,Drought,1,0,1,0,0
+Ca_07522,Drought,1,0,1,0,0
+Ca_07580,Heat,1,0,0,0,1
+Ca_07589,Salinity,1,0,0,1,0
+Ca_07604,Heat,1,0,0,0,1
+Ca_07605,Heat,1,0,0,0,1
+Ca_07615,Heat,1,0,0,0,1
+Ca_07709,Cold,1,1,0,0,0
+Ca_07727,Heat,1,0,0,0,1
+Ca_07759,Heat,1,0,0,0,1
+Ca_07775,Heat,1,0,0,0,1
+Ca_07813,Heat,1,0,0,0,1
+Ca_07837,Heat,1,0,0,0,1
+Ca_07840,Drought,1,0,1,0,0
+Ca_07845,Heat,1,0,0,0,1
+Ca_07896,Heat,1,0,0,0,1
+Ca_07902,Salinity,1,0,0,1,0
+Ca_07904,Heat,1,0,0,0,1
+Ca_07909,Salinity,1,0,0,1,0
+Ca_07924,Drought,1,0,1,0,0
+Ca_07925,Drought,1,0,1,0,0
+Ca_07959,Salinity,1,0,0,1,0
+Ca_07986,Heat,1,0,0,0,1
+Ca_07987,Drought,1,0,1,0,0
+Ca_07988,Drought,1,0,1,0,0
+Ca_07995,Heat,1,0,0,0,1
+Ca_08001,Heat,1,0,0,0,1
+Ca_08031,Heat,1,0,0,0,1
+Ca_08061,Heat,1,0,0,0,1
+Ca_08071,Salinity,1,0,0,1,0
+Ca_08075,Salinity,1,0,0,1,0
+Ca_08076,Drought,1,0,1,0,0
+Ca_08105,Heat,1,0,0,0,1
+Ca_08114,Drought,1,0,1,0,0
+Ca_08149,Cold,1,1,0,0,0
+Ca_08153,Heat,1,0,0,0,1
+Ca_08190,Heat,1,0,0,0,1
+Ca_08200,Salinity,1,0,0,1,0
+Ca_08209,Salinity,1,0,0,1,0
+Ca_08228,Salinity,1,0,0,1,0
+Ca_08238,Drought,1,0,1,0,0
+Ca_08252,Salinity,1,0,0,1,0
+Ca_08257,Heat,1,0,0,0,1
+Ca_08276,Heat,1,0,0,0,1
+Ca_08277,Heat,1,0,0,0,1
+Ca_08281,Heat,1,0,0,0,1
+Ca_08284,Cold,1,1,0,0,0
+Ca_08293,Heat,1,0,0,0,1
+Ca_08307,Heat,1,0,0,0,1
+Ca_08380,Heat,1,0,0,0,1
+Ca_08386,Salinity,1,0,0,1,0
+Ca_08418,Salinity,1,0,0,1,0
+Ca_08433,Heat,1,0,0,0,1
+Ca_08434,Heat,1,0,0,0,1
+Ca_08452,Salinity,1,0,0,1,0
+Ca_08468,Salinity,1,0,0,1,0
+Ca_08487,Heat,1,0,0,0,1
+Ca_08491,Salinity,1,0,0,1,0
+Ca_08529,Heat,1,0,0,0,1
+Ca_08546,Heat,1,0,0,0,1
+Ca_08589,Heat,1,0,0,0,1
+Ca_08607,Cold,1,1,0,0,0
+Ca_08612,Drought,1,0,1,0,0
+Ca_08614,Heat,1,0,0,0,1
+Ca_08619,Heat,1,0,0,0,1
+Ca_08620,Salinity,1,0,0,1,0
+Ca_08623,Heat,1,0,0,0,1
+Ca_08624,Heat,1,0,0,0,1
+Ca_08628,Cold,1,1,0,0,0
+Ca_08629,Cold,1,1,0,0,0
+Ca_08631,Salinity,1,0,0,1,0
+Ca_08639,Heat,1,0,0,0,1
+Ca_08658,Salinity,1,0,0,1,0
+Ca_08691,Heat,1,0,0,0,1
+Ca_08732,Heat,1,0,0,0,1
+Ca_08738,Heat,1,0,0,0,1
+Ca_08741,Salinity,1,0,0,1,0
+Ca_08752,Cold,1,1,0,0,0
+Ca_08753,Cold,1,1,0,0,0
+Ca_08791,Salinity,1,0,0,1,0
+Ca_08803,Heat,1,0,0,0,1
+Ca_08815,Heat,1,0,0,0,1
+Ca_08826,Drought,1,0,1,0,0
+Ca_08885,Heat,1,0,0,0,1
+Ca_08904,Heat,1,0,0,0,1
+Ca_08907,Heat,1,0,0,0,1
+Ca_08920,Heat,1,0,0,0,1
+Ca_08921,Heat,1,0,0,0,1
+Ca_08945,Salinity,1,0,0,1,0
+Ca_08964,Salinity,1,0,0,1,0
+Ca_08996,Drought,1,0,1,0,0
+Ca_09042,Cold,1,1,0,0,0
+Ca_09073,Heat,1,0,0,0,1
+Ca_09085,Drought,1,0,1,0,0
+Ca_09134,Heat,1,0,0,0,1
+Ca_09232,Heat,1,0,0,0,1
+Ca_09240,Heat,1,0,0,0,1
+Ca_09241,Drought,1,0,1,0,0
+Ca_09264,Salinity,1,0,0,1,0
+Ca_09265,Salinity,1,0,0,1,0
+Ca_09283,Drought,1,0,1,0,0
+Ca_09313,Drought,1,0,1,0,0
+Ca_09327,Cold,1,1,0,0,0
+Ca_09331,Cold,1,1,0,0,0
+Ca_09370,Drought,1,0,1,0,0
+Ca_09381,Heat,1,0,0,0,1
+Ca_09396,Heat,1,0,0,0,1
+Ca_09441,Heat,1,0,0,0,1
+Ca_09442,Heat,1,0,0,0,1
+Ca_09449,Heat,1,0,0,0,1
+Ca_09455,Heat,1,0,0,0,1
+Ca_09512,Drought,1,0,1,0,0
+Ca_09520,Drought,1,0,1,0,0
+Ca_09521,Drought,1,0,1,0,0
+Ca_09533,Heat,1,0,0,0,1
+Ca_09536,Drought,1,0,1,0,0
+Ca_09541,Heat,1,0,0,0,1
+Ca_09575,Heat,1,0,0,0,1
+Ca_09586,Heat,1,0,0,0,1
+Ca_09591,Drought,1,0,1,0,0
+Ca_09592,Drought,1,0,1,0,0
+Ca_09605,Heat,1,0,0,0,1
+Ca_09614,Cold,1,1,0,0,0
+Ca_09622,Salinity,1,0,0,1,0
+Ca_09638,Heat,1,0,0,0,1
+Ca_09664,Drought,1,0,1,0,0
+Ca_09665,Salinity,1,0,0,1,0
+Ca_09683,Drought,1,0,1,0,0
+Ca_09713,Salinity,1,0,0,1,0
+Ca_09747,Heat,1,0,0,0,1
+Ca_09755,Heat,1,0,0,0,1
+Ca_09779,Salinity,1,0,0,1,0
+Ca_09781,Heat,1,0,0,0,1
+Ca_09783,Heat,1,0,0,0,1
+Ca_09801,Heat,1,0,0,0,1
+Ca_09812,Heat,1,0,0,0,1
+Ca_09816,Salinity,1,0,0,1,0
+Ca_09868,Drought,1,0,1,0,0
+Ca_09923,Heat,1,0,0,0,1
+Ca_09938,Drought,1,0,1,0,0
+Ca_09949,Drought,1,0,1,0,0
+Ca_09955,Heat,1,0,0,0,1
+Ca_09963,Drought,1,0,1,0,0
+Ca_09964,Drought,1,0,1,0,0
+Ca_09968,Heat,1,0,0,0,1
+Ca_10002,Heat,1,0,0,0,1
+Ca_10037,Salinity,1,0,0,1,0
+Ca_10048,Drought,1,0,1,0,0
+Ca_10052,Drought,1,0,1,0,0
+Ca_10059,Salinity,1,0,0,1,0
+Ca_10080,Heat,1,0,0,0,1
+Ca_10102,Salinity,1,0,0,1,0
+Ca_10147,Heat,1,0,0,0,1
+Ca_10148,Heat,1,0,0,0,1
+Ca_10181,Drought,1,0,1,0,0
+Ca_10186,Salinity,1,0,0,1,0
+Ca_10187,Salinity,1,0,0,1,0
+Ca_10189,Heat,1,0,0,0,1
+Ca_10205,Heat,1,0,0,0,1
+Ca_10210,Heat,1,0,0,0,1
+Ca_10247,Salinity,1,0,0,1,0
+Ca_10314,Drought,1,0,1,0,0
+Ca_10353,Heat,1,0,0,0,1
+Ca_10359,Salinity,1,0,0,1,0
+Ca_10384,Salinity,1,0,0,1,0
+Ca_10405,Salinity,1,0,0,1,0
+Ca_10425,Drought,1,0,1,0,0
+Ca_10470,Heat,1,0,0,0,1
+Ca_10471,Heat,1,0,0,0,1
+Ca_10484,Heat,1,0,0,0,1
+Ca_10498,Heat,1,0,0,0,1
+Ca_10503,Drought,1,0,1,0,0
+Ca_10537,Drought,1,0,1,0,0
+Ca_10545,Heat,1,0,0,0,1
+Ca_10561,Heat,1,0,0,0,1
+Ca_10566,Drought,1,0,1,0,0
+Ca_10576,Heat,1,0,0,0,1
+Ca_10587,Heat,1,0,0,0,1
+Ca_10625,Cold,1,1,0,0,0
+Ca_10633,Heat,1,0,0,0,1
+Ca_10648,Heat,1,0,0,0,1
+Ca_10666,Heat,1,0,0,0,1
+Ca_10687,Salinity,1,0,0,1,0
+Ca_10694,Heat,1,0,0,0,1
+Ca_10696,Heat,1,0,0,0,1
+Ca_10703,Salinity,1,0,0,1,0
+Ca_10731,Drought,1,0,1,0,0
+Ca_10732,Drought,1,0,1,0,0
+Ca_10733,Salinity,1,0,0,1,0
+Ca_10739,Heat,1,0,0,0,1
+Ca_10740,Salinity,1,0,0,1,0
+Ca_10784,Cold,1,1,0,0,0
+Ca_10785,Drought,1,0,1,0,0
+Ca_10788,Heat,1,0,0,0,1
+Ca_10829,Drought,1,0,1,0,0
+Ca_10838,Drought,1,0,1,0,0
+Ca_10840,Heat,1,0,0,0,1
+Ca_10842,Salinity,1,0,0,1,0
+Ca_10850,Drought,1,0,1,0,0
+Ca_10892,Heat,1,0,0,0,1
+Ca_10896,Salinity,1,0,0,1,0
+Ca_10900,Heat,1,0,0,0,1
+Ca_10918,Heat,1,0,0,0,1
+Ca_10928,Drought,1,0,1,0,0
+Ca_10969,Heat,1,0,0,0,1
+Ca_11007,Heat,1,0,0,0,1
+Ca_11014,Heat,1,0,0,0,1
+Ca_11028,Drought,1,0,1,0,0
+Ca_11033,Salinity,1,0,0,1,0
+Ca_11034,Heat,1,0,0,0,1
+Ca_11091,Salinity,1,0,0,1,0
+Ca_11114,Drought,1,0,1,0,0
+Ca_11128,Heat,1,0,0,0,1
+Ca_11140,Heat,1,0,0,0,1
+Ca_11141,Heat,1,0,0,0,1
+Ca_11160,Cold,1,1,0,0,0
+Ca_11184,Heat,1,0,0,0,1
+Ca_11193,Cold,1,1,0,0,0
+Ca_11195,Drought,1,0,1,0,0
+Ca_11202,Drought,1,0,1,0,0
+Ca_11249,Cold,1,1,0,0,0
+Ca_11259,Drought,1,0,1,0,0
+Ca_11261,Drought,1,0,1,0,0
+Ca_11273,Heat,1,0,0,0,1
+Ca_11276,Heat,1,0,0,0,1
+Ca_11278,Heat,1,0,0,0,1
+Ca_11308,Salinity,1,0,0,1,0
+Ca_11319,Heat,1,0,0,0,1
+Ca_11330,Drought,1,0,1,0,0
+Ca_11351,Salinity,1,0,0,1,0
+Ca_11359,Salinity,1,0,0,1,0
+Ca_11375,Drought,1,0,1,0,0
+Ca_11381,Heat,1,0,0,0,1
+Ca_11408,Salinity,1,0,0,1,0
+Ca_11409,Salinity,1,0,0,1,0
+Ca_11443,Drought,1,0,1,0,0
+Ca_11455,Salinity,1,0,0,1,0
+Ca_11507,Heat,1,0,0,0,1
+Ca_11515,Heat,1,0,0,0,1
+Ca_11564,Drought,1,0,1,0,0
+Ca_11565,Drought,1,0,1,0,0
+Ca_11566,Cold,1,1,0,0,0
+Ca_11577,Heat,1,0,0,0,1
+Ca_11583,Heat,1,0,0,0,1
+Ca_11595,Cold,1,1,0,0,0
+Ca_11611,Heat,1,0,0,0,1
+Ca_11637,Heat,1,0,0,0,1
+Ca_11728,Heat,1,0,0,0,1
+Ca_11729,Heat,1,0,0,0,1
+Ca_11737,Cold,1,1,0,0,0
+Ca_11796,Salinity,1,0,0,1,0
+Ca_11840,Heat,1,0,0,0,1
+Ca_11843,Drought,1,0,1,0,0
+Ca_11849,Drought,1,0,1,0,0
+Ca_11863,Cold,1,1,0,0,0
+Ca_11867,Drought,1,0,1,0,0
+Ca_11876,Heat,1,0,0,0,1
+Ca_11879,Salinity,1,0,0,1,0
+Ca_11893,Salinity,1,0,0,1,0
+Ca_11898,Heat,1,0,0,0,1
+Ca_11904,Salinity,1,0,0,1,0
+Ca_11907,Drought,1,0,1,0,0
+Ca_11938,Heat,1,0,0,0,1
+Ca_11942,Heat,1,0,0,0,1
+Ca_11962,Heat,1,0,0,0,1
+Ca_11964,Heat,1,0,0,0,1
+Ca_11965,Heat,1,0,0,0,1
+Ca_11969,Salinity,1,0,0,1,0
+Ca_11976,Heat,1,0,0,0,1
+Ca_11982,Drought,1,0,1,0,0
+Ca_11990,Salinity,1,0,0,1,0
+Ca_12001,Heat,1,0,0,0,1
+Ca_12024,Salinity,1,0,0,1,0
+Ca_12025,Drought,1,0,1,0,0
+Ca_12034,Heat,1,0,0,0,1
+Ca_12081,Heat,1,0,0,0,1
+Ca_12092,Salinity,1,0,0,1,0
+Ca_12094,Cold,1,1,0,0,0
+Ca_12102,Salinity,1,0,0,1,0
+Ca_12126,Heat,1,0,0,0,1
+Ca_12145,Heat,1,0,0,0,1
+Ca_12157,Salinity,1,0,0,1,0
+Ca_12159,Heat,1,0,0,0,1
+Ca_12168,Heat,1,0,0,0,1
+Ca_12170,Heat,1,0,0,0,1
+Ca_12183,Heat,1,0,0,0,1
+Ca_12184,Heat,1,0,0,0,1
+Ca_12185,Heat,1,0,0,0,1
+Ca_12195,Drought,1,0,1,0,0
+Ca_12218,Heat,1,0,0,0,1
+Ca_12221,Heat,1,0,0,0,1
+Ca_12229,Salinity,1,0,0,1,0
+Ca_12235,Salinity,1,0,0,1,0
+Ca_12247,Salinity,1,0,0,1,0
+Ca_12262,Salinity,1,0,0,1,0
+Ca_12283,Heat,1,0,0,0,1
+Ca_12313,Drought,1,0,1,0,0
+Ca_12340,Drought,1,0,1,0,0
+Ca_12352,Drought,1,0,1,0,0
+Ca_12358,Heat,1,0,0,0,1
+Ca_12387,Heat,1,0,0,0,1
+Ca_12422,Salinity,1,0,0,1,0
+Ca_12432,Drought,1,0,1,0,0
+Ca_12449,Heat,1,0,0,0,1
+Ca_12453,Heat,1,0,0,0,1
+Ca_12466,Salinity,1,0,0,1,0
+Ca_12486,Heat,1,0,0,0,1
+Ca_12498,Heat,1,0,0,0,1
+Ca_12508,Heat,1,0,0,0,1
+Ca_12510,Drought,1,0,1,0,0
+Ca_12518,Drought,1,0,1,0,0
+Ca_12521,Heat,1,0,0,0,1
+Ca_12522,Cold,1,1,0,0,0
+Ca_12557,Salinity,1,0,0,1,0
+Ca_12587,Salinity,1,0,0,1,0
+Ca_12667,Drought,1,0,1,0,0
+Ca_12690,Heat,1,0,0,0,1
+Ca_12694,Heat,1,0,0,0,1
+Ca_12696,Heat,1,0,0,0,1
+Ca_12724,Cold,1,1,0,0,0
+Ca_12729,Salinity,1,0,0,1,0
+Ca_12756,Salinity,1,0,0,1,0
+Ca_12774,Drought,1,0,1,0,0
+Ca_12775,Salinity,1,0,0,1,0
+Ca_12780,Drought,1,0,1,0,0
+Ca_12814,Salinity,1,0,0,1,0
+Ca_12821,Heat,1,0,0,0,1
+Ca_12824,Drought,1,0,1,0,0
+Ca_12830,Drought,1,0,1,0,0
+Ca_12865,Heat,1,0,0,0,1
+Ca_12884,Heat,1,0,0,0,1
+Ca_12901,Salinity,1,0,0,1,0
+Ca_12916,Drought,1,0,1,0,0
+Ca_12919,Drought,1,0,1,0,0
+Ca_12921,Drought,1,0,1,0,0
+Ca_12925,Heat,1,0,0,0,1
+Ca_12929,Drought,1,0,1,0,0
+Ca_12936,Heat,1,0,0,0,1
+Ca_12967,Heat,1,0,0,0,1
+Ca_12981,Heat,1,0,0,0,1
+Ca_13024,Heat,1,0,0,0,1
+Ca_13032,Heat,1,0,0,0,1
+Ca_13052,Heat,1,0,0,0,1
+Ca_13061,Heat,1,0,0,0,1
+Ca_13079,Heat,1,0,0,0,1
+Ca_13168,Drought,1,0,1,0,0
+Ca_13187,Heat,1,0,0,0,1
+Ca_13256,Salinity,1,0,0,1,0
+Ca_13265,Heat,1,0,0,0,1
+Ca_13279,Drought,1,0,1,0,0
+Ca_13329,Heat,1,0,0,0,1
+Ca_13334,Heat,1,0,0,0,1
+Ca_13340,Drought,1,0,1,0,0
+Ca_13366,Heat,1,0,0,0,1
+Ca_13388,Heat,1,0,0,0,1
+Ca_13400,Heat,1,0,0,0,1
+Ca_13411,Drought,1,0,1,0,0
+Ca_13431,Heat,1,0,0,0,1
+Ca_13450,Heat,1,0,0,0,1
+Ca_13451,Heat,1,0,0,0,1
+Ca_13462,Heat,1,0,0,0,1
+Ca_13477,Salinity,1,0,0,1,0
+Ca_13478,Heat,1,0,0,0,1
+Ca_13523,Drought,1,0,1,0,0
+Ca_13527,Drought,1,0,1,0,0
+Ca_13561,Heat,1,0,0,0,1
+Ca_13566,Salinity,1,0,0,1,0
+Ca_13569,Salinity,1,0,0,1,0
+Ca_13592,Heat,1,0,0,0,1
+Ca_13594,Salinity,1,0,0,1,0
+Ca_13662,Drought,1,0,1,0,0
+Ca_13668,Heat,1,0,0,0,1
+Ca_13690,Salinity,1,0,0,1,0
+Ca_13693,Heat,1,0,0,0,1
+Ca_13708,Heat,1,0,0,0,1
+Ca_13710,Heat,1,0,0,0,1
+Ca_13723,Heat,1,0,0,0,1
+Ca_13740,Heat,1,0,0,0,1
+Ca_13789,Drought,1,0,1,0,0
+Ca_13812,Drought,1,0,1,0,0
+Ca_13828,Salinity,1,0,0,1,0
+Ca_13853,Drought,1,0,1,0,0
+Ca_13893,Heat,1,0,0,0,1
+Ca_13894,Salinity,1,0,0,1,0
+Ca_13919,Cold,1,1,0,0,0
+Ca_13929,Salinity,1,0,0,1,0
+Ca_13942,Salinity,1,0,0,1,0
+Ca_13966,Heat,1,0,0,0,1
+Ca_13993,Heat,1,0,0,0,1
+Ca_14032,Drought,1,0,1,0,0
+Ca_14040,Drought,1,0,1,0,0
+Ca_14048,Heat,1,0,0,0,1
+Ca_14113,Heat,1,0,0,0,1
+Ca_14134,Salinity,1,0,0,1,0
+Ca_14296,Drought,1,0,1,0,0
+Ca_14297,Drought,1,0,1,0,0
+Ca_14332,Heat,1,0,0,0,1
+Ca_14348,Salinity,1,0,0,1,0
+Ca_14353,Drought,1,0,1,0,0
+Ca_14363,Heat,1,0,0,0,1
+Ca_14397,Salinity,1,0,0,1,0
+Ca_14423,Salinity,1,0,0,1,0
+Ca_14453,Drought,1,0,1,0,0
+Ca_14459,Salinity,1,0,0,1,0
+Ca_14465,Heat,1,0,0,0,1
+Ca_14467,Heat,1,0,0,0,1
+Ca_14474,Salinity,1,0,0,1,0
+Ca_14480,Heat,1,0,0,0,1
+Ca_14493,Heat,1,0,0,0,1
+Ca_14500,Heat,1,0,0,0,1
+Ca_14520,Cold,1,1,0,0,0
+Ca_14546,Heat,1,0,0,0,1
+Ca_14559,Heat,1,0,0,0,1
+Ca_14585,Heat,1,0,0,0,1
+Ca_14588,Heat,1,0,0,0,1
+Ca_14607,Heat,1,0,0,0,1
+Ca_14615,Heat,1,0,0,0,1
+Ca_14621,Heat,1,0,0,0,1
+Ca_14642,Cold,1,1,0,0,0
+Ca_14650,Heat,1,0,0,0,1
+Ca_14659,Salinity,1,0,0,1,0
+Ca_14665,Drought,1,0,1,0,0
+Ca_14667,Salinity,1,0,0,1,0
+Ca_14692,Heat,1,0,0,0,1
+Ca_14696,Drought,1,0,1,0,0
+Ca_14705,Heat,1,0,0,0,1
+Ca_14719,Salinity,1,0,0,1,0
+Ca_14730,Heat,1,0,0,0,1
+Ca_14738,Heat,1,0,0,0,1
+Ca_14764,Drought,1,0,1,0,0
+Ca_14765,Heat,1,0,0,0,1
+Ca_14767,Heat,1,0,0,0,1
+Ca_14768,Heat,1,0,0,0,1
+Ca_14773,Heat,1,0,0,0,1
+Ca_14776,Heat,1,0,0,0,1
+Ca_14778,Drought,1,0,1,0,0
+Ca_14779,Salinity,1,0,0,1,0
+Ca_14786,Heat,1,0,0,0,1
+Ca_14788,Heat,1,0,0,0,1
+Ca_14791,Cold,1,1,0,0,0
+Ca_14811,Heat,1,0,0,0,1
+Ca_14818,Heat,1,0,0,0,1
+Ca_14819,Heat,1,0,0,0,1
+Ca_14821,Heat,1,0,0,0,1
+Ca_14827,Drought,1,0,1,0,0
+Ca_14832,Heat,1,0,0,0,1
+Ca_14866,Salinity,1,0,0,1,0
+Ca_14911,Salinity,1,0,0,1,0
+Ca_14930,Drought,1,0,1,0,0
+Ca_14933,Heat,1,0,0,0,1
+Ca_14982,Heat,1,0,0,0,1
+Ca_15022,Drought,1,0,1,0,0
+Ca_15118,Cold,1,1,0,0,0
+Ca_15133,Drought,1,0,1,0,0
+Ca_15147,Salinity,1,0,0,1,0
+Ca_15158,Salinity,1,0,0,1,0
+Ca_15160,Heat,1,0,0,0,1
+Ca_15202,Salinity,1,0,0,1,0
+Ca_15239,Heat,1,0,0,0,1
+Ca_15242,Drought,1,0,1,0,0
+Ca_15255,Heat,1,0,0,0,1
+Ca_15262,Salinity,1,0,0,1,0
+Ca_15274,Salinity,1,0,0,1,0
+Ca_15296,Heat,1,0,0,0,1
+Ca_15299,Drought,1,0,1,0,0
+Ca_15303,Heat,1,0,0,0,1
+Ca_15322,Heat,1,0,0,0,1
+Ca_15347,Salinity,1,0,0,1,0
+Ca_15382,Heat,1,0,0,0,1
+Ca_15431,Salinity,1,0,0,1,0
+Ca_15450,Salinity,1,0,0,1,0
+Ca_15523,Heat,1,0,0,0,1
+Ca_15538,Heat,1,0,0,0,1
+Ca_15539,Drought,1,0,1,0,0
+Ca_15550,Heat,1,0,0,0,1
+Ca_15556,Cold,1,1,0,0,0
+Ca_15573,Salinity,1,0,0,1,0
+Ca_15607,Heat,1,0,0,0,1
+Ca_15610,Heat,1,0,0,0,1
+Ca_15616,Heat,1,0,0,0,1
+Ca_15657,Drought,1,0,1,0,0
+Ca_15660,Heat,1,0,0,0,1
+Ca_15671,Heat,1,0,0,0,1
+Ca_15687,Drought,1,0,1,0,0
+Ca_15777,Drought,1,0,1,0,0
+Ca_15861,Heat,1,0,0,0,1
+Ca_15866,Salinity,1,0,0,1,0
+Ca_16073,Heat,1,0,0,0,1
+Ca_16084,Drought,1,0,1,0,0
+Ca_16099,Drought,1,0,1,0,0
+Ca_16131,Heat,1,0,0,0,1
+Ca_16138,Drought,1,0,1,0,0
+Ca_16139,Heat,1,0,0,0,1
+Ca_16157,Drought,1,0,1,0,0
+Ca_16173,Heat,1,0,0,0,1
+Ca_16187,Heat,1,0,0,0,1
+Ca_16191,Salinity,1,0,0,1,0
+Ca_16196,Drought,1,0,1,0,0
+Ca_16199,Drought,1,0,1,0,0
+Ca_16257,Salinity,1,0,0,1,0
+Ca_16282,Heat,1,0,0,0,1
+Ca_16307,Heat,1,0,0,0,1
+Ca_16308,Heat,1,0,0,0,1
+Ca_16314,Heat,1,0,0,0,1
+Ca_16326,Heat,1,0,0,0,1
+Ca_16327,Heat,1,0,0,0,1
+Ca_16340,Cold,1,1,0,0,0
+Ca_16342,Salinity,1,0,0,1,0
+Ca_16343,Salinity,1,0,0,1,0
+Ca_16350,Heat,1,0,0,0,1
+Ca_16370,Heat,1,0,0,0,1
+Ca_16373,Drought,1,0,1,0,0
+Ca_16377,Salinity,1,0,0,1,0
+Ca_16380,Salinity,1,0,0,1,0
+Ca_16385,Heat,1,0,0,0,1
+Ca_16414,Drought,1,0,1,0,0
+Ca_16507,Heat,1,0,0,0,1
+Ca_16511,Cold,1,1,0,0,0
+Ca_16512,Cold,1,1,0,0,0
+Ca_16545,Salinity,1,0,0,1,0
+Ca_16587,Salinity,1,0,0,1,0
+Ca_16604,Salinity,1,0,0,1,0
+Ca_16618,Salinity,1,0,0,1,0
+Ca_16627,Salinity,1,0,0,1,0
+Ca_16628,Salinity,1,0,0,1,0
+Ca_16640,Drought,1,0,1,0,0
+Ca_16651,Drought,1,0,1,0,0
+Ca_16657,Heat,1,0,0,0,1
+Ca_16662,Drought,1,0,1,0,0
+Ca_16665,Drought,1,0,1,0,0
+Ca_16671,Drought,1,0,1,0,0
+Ca_16682,Heat,1,0,0,0,1
+Ca_16684,Salinity,1,0,0,1,0
+Ca_16693,Heat,1,0,0,0,1
+Ca_16695,Heat,1,0,0,0,1
+Ca_16706,Heat,1,0,0,0,1
+Ca_16712,Heat,1,0,0,0,1
+Ca_16723,Salinity,1,0,0,1,0
+Ca_16743,Heat,1,0,0,0,1
+Ca_16783,Drought,1,0,1,0,0
+Ca_16791,Salinity,1,0,0,1,0
+Ca_16822,Heat,1,0,0,0,1
+Ca_16845,Heat,1,0,0,0,1
+Ca_16852,Heat,1,0,0,0,1
+Ca_16873,Drought,1,0,1,0,0
+Ca_16882,Salinity,1,0,0,1,0
+Ca_16915,Heat,1,0,0,0,1
+Ca_16946,Heat,1,0,0,0,1
+Ca_16966,Salinity,1,0,0,1,0
+Ca_17028,Drought,1,0,1,0,0
+Ca_17031,Drought,1,0,1,0,0
+Ca_17036,Cold,1,1,0,0,0
+Ca_17072,Heat,1,0,0,0,1
+Ca_17081,Heat,1,0,0,0,1
+Ca_17103,Heat,1,0,0,0,1
+Ca_17162,Drought,1,0,1,0,0
+Ca_17200,Heat,1,0,0,0,1
+Ca_17211,Drought,1,0,1,0,0
+Ca_17212,Drought,1,0,1,0,0
+Ca_17232,Heat,1,0,0,0,1
+Ca_17244,Heat,1,0,0,0,1
+Ca_17258,Heat,1,0,0,0,1
+Ca_17259,Heat,1,0,0,0,1
+Ca_17260,Heat,1,0,0,0,1
+Ca_17269,Heat,1,0,0,0,1
+Ca_17273,Heat,1,0,0,0,1
+Ca_17344,Heat,1,0,0,0,1
+Ca_17359,Salinity,1,0,0,1,0
+Ca_17365,Heat,1,0,0,0,1
+Ca_17370,Heat,1,0,0,0,1
+Ca_17396,Heat,1,0,0,0,1
+Ca_17416,Heat,1,0,0,0,1
+Ca_17421,Cold,1,1,0,0,0
+Ca_17448,Heat,1,0,0,0,1
+Ca_17474,Salinity,1,0,0,1,0
+Ca_17486,Heat,1,0,0,0,1
+Ca_17492,Drought,1,0,1,0,0
+Ca_17493,Drought,1,0,1,0,0
+Ca_17495,Drought,1,0,1,0,0
+Ca_17507,Cold,1,1,0,0,0
+Ca_17545,Heat,1,0,0,0,1
+Ca_17556,Drought,1,0,1,0,0
+Ca_17579,Drought,1,0,1,0,0
+Ca_17581,Drought,1,0,1,0,0
+Ca_17582,Drought,1,0,1,0,0
+Ca_17599,Drought,1,0,1,0,0
+Ca_17601,Heat,1,0,0,0,1
+Ca_17608,Salinity,1,0,0,1,0
+Ca_17614,Drought,1,0,1,0,0
+Ca_17627,Heat,1,0,0,0,1
+Ca_17664,Drought,1,0,1,0,0
+Ca_17668,Heat,1,0,0,0,1
+Ca_17669,Heat,1,0,0,0,1
+Ca_17677,Drought,1,0,1,0,0
+Ca_17690,Salinity,1,0,0,1,0
+Ca_17734,Drought,1,0,1,0,0
+Ca_17839,Drought,1,0,1,0,0
+Ca_17879,Heat,1,0,0,0,1
+Ca_17893,Cold,1,1,0,0,0
+Ca_17974,Salinity,1,0,0,1,0
+Ca_17986,Salinity,1,0,0,1,0
+Ca_18030,Heat,1,0,0,0,1
+Ca_18043,Heat,1,0,0,0,1
+Ca_18044,Drought,1,0,1,0,0
+Ca_18090,Heat,1,0,0,0,1
+Ca_18121,Heat,1,0,0,0,1
+Ca_18233,Salinity,1,0,0,1,0
+Ca_18257,Salinity,1,0,0,1,0
+Ca_18267,Salinity,1,0,0,1,0
+Ca_18285,Heat,1,0,0,0,1
+Ca_18300,Cold,1,1,0,0,0
+Ca_18301,Heat,1,0,0,0,1
+Ca_18307,Heat,1,0,0,0,1
+Ca_18309,Drought,1,0,1,0,0
+Ca_18339,Heat,1,0,0,0,1
+Ca_18343,Salinity,1,0,0,1,0
+Ca_18351,Salinity,1,0,0,1,0
+Ca_18356,Heat,1,0,0,0,1
+Ca_18369,Heat,1,0,0,0,1
+Ca_18391,Drought,1,0,1,0,0
+Ca_18392,Heat,1,0,0,0,1
+Ca_18398,Heat,1,0,0,0,1
+Ca_18462,Salinity,1,0,0,1,0
+Ca_18504,Heat,1,0,0,0,1
+Ca_18543,Salinity,1,0,0,1,0
+Ca_18546,Drought,1,0,1,0,0
+Ca_18586,Drought,1,0,1,0,0
+Ca_18625,Heat,1,0,0,0,1
+Ca_18626,Heat,1,0,0,0,1
+Ca_18667,Drought,1,0,1,0,0
+Ca_18673,Salinity,1,0,0,1,0
+Ca_18699,Heat,1,0,0,0,1
+Ca_18772,Salinity,1,0,0,1,0
+Ca_18774,Heat,1,0,0,0,1
+Ca_18777,Heat,1,0,0,0,1
+Ca_18792,Salinity,1,0,0,1,0
+Ca_18854,Drought,1,0,1,0,0
+Ca_18860,Heat,1,0,0,0,1
+Ca_18938,Cold,1,1,0,0,0
+Ca_18940,Heat,1,0,0,0,1
+Ca_19004,Heat,1,0,0,0,1
+Ca_19115,Salinity,1,0,0,1,0
+Ca_19119,Drought,1,0,1,0,0
+Ca_19156,Salinity,1,0,0,1,0
+Ca_19159,Heat,1,0,0,0,1
+Ca_19162,Salinity,1,0,0,1,0
+Ca_19177,Salinity,1,0,0,1,0
+Ca_19195,Drought,1,0,1,0,0
+Ca_19221,Heat,1,0,0,0,1
+Ca_19222,Heat,1,0,0,0,1
+Ca_19253,Drought,1,0,1,0,0
+Ca_19301,Drought,1,0,1,0,0
+Ca_19356,Salinity,1,0,0,1,0
+Ca_19438,Drought,1,0,1,0,0
+Ca_19441,Heat,1,0,0,0,1
+Ca_19479,Heat,1,0,0,0,1
+Ca_19481,Heat,1,0,0,0,1
+Ca_19512,Heat,1,0,0,0,1
+Ca_19513,Heat,1,0,0,0,1
+Ca_19586,Heat,1,0,0,0,1
+Ca_19598,Heat,1,0,0,0,1
+Ca_19616,Heat,1,0,0,0,1
+Ca_19617,Heat,1,0,0,0,1
+Ca_19667,Cold,1,1,0,0,0
+Ca_19668,Heat,1,0,0,0,1
+Ca_19673,Heat,1,0,0,0,1
+Ca_19677,Cold,1,1,0,0,0
+Ca_19689,Heat,1,0,0,0,1
+Ca_19718,Heat,1,0,0,0,1
+Ca_19814,Heat,1,0,0,0,1
+Ca_19874,Drought,1,0,1,0,0
+Ca_19912,Drought,1,0,1,0,0
+Ca_19918,Drought,1,0,1,0,0
+Ca_19925,Salinity,1,0,0,1,0
+Ca_19940,Salinity,1,0,0,1,0
+Ca_19962,Drought,1,0,1,0,0
+Ca_19965,Salinity,1,0,0,1,0
+Ca_20018,Heat,1,0,0,0,1
+Ca_20019,Drought,1,0,1,0,0
+Ca_20063,Salinity,1,0,0,1,0
+Ca_20115,Drought,1,0,1,0,0
+Ca_20147,Heat,1,0,0,0,1
+Ca_20176,Drought,1,0,1,0,0
+Ca_20195,Heat,1,0,0,0,1
+Ca_20210,Heat,1,0,0,0,1
+Ca_20213,Drought,1,0,1,0,0
+Ca_20237,Heat,1,0,0,0,1
+Ca_20238,Heat,1,0,0,0,1
+Ca_20261,Drought,1,0,1,0,0
+Ca_20284,Drought,1,0,1,0,0
+Ca_20286,Heat,1,0,0,0,1
+Ca_20295,Heat,1,0,0,0,1
+Ca_20305,Cold,1,1,0,0,0
+Ca_20329,Heat,1,0,0,0,1
+Ca_20333,Salinity,1,0,0,1,0
+Ca_20338,Cold,1,1,0,0,0
+Ca_20341,Salinity,1,0,0,1,0
+Ca_20375,Heat,1,0,0,0,1
+Ca_20420,Cold,1,1,0,0,0
+Ca_20423,Heat,1,0,0,0,1
+Ca_20472,Salinity,1,0,0,1,0
+Ca_20491,Heat,1,0,0,0,1
+Ca_20494,Drought,1,0,1,0,0
+Ca_20547,Heat,1,0,0,0,1
+Ca_20586,Drought,1,0,1,0,0
+Ca_20600,Salinity,1,0,0,1,0
+Ca_20630,Heat,1,0,0,0,1
+Ca_20640,Salinity,1,0,0,1,0
+Ca_20642,Drought,1,0,1,0,0
+Ca_20658,Drought,1,0,1,0,0
+Ca_20668,Drought,1,0,1,0,0
+Ca_20685,Drought,1,0,1,0,0
+Ca_20719,Heat,1,0,0,0,1
+Ca_20770,Drought,1,0,1,0,0
+Ca_20774,Heat,1,0,0,0,1
+Ca_20792,Heat,1,0,0,0,1
+Ca_20809,Salinity,1,0,0,1,0
+Ca_20859,Drought,1,0,1,0,0
+Ca_20877,Salinity,1,0,0,1,0
+Ca_20882,Heat,1,0,0,0,1
+Ca_20934,Salinity,1,0,0,1,0
+Ca_20936,Heat,1,0,0,0,1
+Ca_20988,Heat,1,0,0,0,1
+Ca_21000,Drought,1,0,1,0,0
+Ca_21031,Heat,1,0,0,0,1
+Ca_21071,Salinity,1,0,0,1,0
+Ca_21114,Heat,1,0,0,0,1
+Ca_21128,Drought,1,0,1,0,0
+Ca_21153,Heat,1,0,0,0,1
+Ca_21173,Drought,1,0,1,0,0
+Ca_21192,Salinity,1,0,0,1,0
+Ca_21263,Salinity,1,0,0,1,0
+Ca_21291,Salinity,1,0,0,1,0
+Ca_21317,Heat,1,0,0,0,1
+Ca_21330,Drought,1,0,1,0,0
+Ca_21332,Salinity,1,0,0,1,0
+Ca_21346,Heat,1,0,0,0,1
+Ca_21349,Drought,1,0,1,0,0
+Ca_21437,Heat,1,0,0,0,1
+Ca_21443,Salinity,1,0,0,1,0
+Ca_21454,Drought,1,0,1,0,0
+Ca_21463,Salinity,1,0,0,1,0
+Ca_21511,Heat,1,0,0,0,1
+Ca_21512,Heat,1,0,0,0,1
+Ca_21545,Drought,1,0,1,0,0
+Ca_21576,Heat,1,0,0,0,1
+Ca_21601,Salinity,1,0,0,1,0
+Ca_21635,Salinity,1,0,0,1,0
+Ca_21686,Heat,1,0,0,0,1
+Ca_21707,Drought,1,0,1,0,0
+Ca_21708,Heat,1,0,0,0,1
+Ca_21795,Heat,1,0,0,0,1
+Ca_21820,Heat,1,0,0,0,1
+Ca_21894,Heat,1,0,0,0,1
+Ca_21901,Salinity,1,0,0,1,0
+Ca_21993,Heat,1,0,0,0,1
+Ca_22048,Heat,1,0,0,0,1
+Ca_22054,Drought,1,0,1,0,0
+Ca_22105,Drought,1,0,1,0,0
+Ca_22115,Drought,1,0,1,0,0
+Ca_22148,Heat,1,0,0,0,1
+Ca_22181,Salinity,1,0,0,1,0
+Ca_22200,Heat,1,0,0,0,1
+Ca_22204,Salinity,1,0,0,1,0
+Ca_22205,Drought,1,0,1,0,0
+Ca_22239,Heat,1,0,0,0,1
+Ca_22360,Heat,1,0,0,0,1
+Ca_22380,Heat,1,0,0,0,1
+Ca_22396,Salinity,1,0,0,1,0
+Ca_22397,Drought,1,0,1,0,0
+Ca_22398,Drought,1,0,1,0,0
+Ca_22420,Heat,1,0,0,0,1
+Ca_22448,Heat,1,0,0,0,1
+Ca_22462,Salinity,1,0,0,1,0
+Ca_22519,Heat,1,0,0,0,1
+Ca_22525,Heat,1,0,0,0,1
+Ca_22534,Heat,1,0,0,0,1
+Ca_22555,Heat,1,0,0,0,1
+Ca_22589,Heat,1,0,0,0,1
+Ca_22597,Drought,1,0,1,0,0
+Ca_22645,Heat,1,0,0,0,1
+Ca_22669,Heat,1,0,0,0,1
+Ca_22672,Heat,1,0,0,0,1
+Ca_22732,Heat,1,0,0,0,1
+Ca_22773,Heat,1,0,0,0,1
+Ca_22779,Heat,1,0,0,0,1
+Ca_22792,Salinity,1,0,0,1,0
+Ca_22919,Heat,1,0,0,0,1
+Ca_22933,Salinity,1,0,0,1,0
+Ca_23021,Heat,1,0,0,0,1
+Ca_23102,Salinity,1,0,0,1,0
+Ca_23178,Heat,1,0,0,0,1
+Ca_23199,Heat,1,0,0,0,1
+Ca_23217,Heat,1,0,0,0,1
+Ca_23284,Heat,1,0,0,0,1
+Ca_23286,Heat,1,0,0,0,1
+Ca_23327,Heat,1,0,0,0,1
+Ca_23337,Heat,1,0,0,0,1
+Ca_23369,Heat,1,0,0,0,1
+Ca_23384,Heat,1,0,0,0,1
+Ca_23419,Heat,1,0,0,0,1
+Ca_23425,Drought,1,0,1,0,0
+Ca_23567,Salinity,1,0,0,1,0
+Ca_23576,Salinity,1,0,0,1,0
+Ca_23585,Drought,1,0,1,0,0
+Ca_23636,Drought,1,0,1,0,0
+Ca_23747,Heat,1,0,0,0,1
+Ca_23779,Salinity,1,0,0,1,0
+Ca_24017,Heat,1,0,0,0,1
+Ca_24090,Salinity,1,0,0,1,0
+Ca_24137,Heat,1,0,0,0,1
+Ca_24160,Heat,1,0,0,0,1
+Ca_24207,Salinity,1,0,0,1,0
+Ca_24255,Heat,1,0,0,0,1
+Ca_24258,Heat,1,0,0,0,1
+Ca_24290,Drought,1,0,1,0,0
+Ca_24305,Heat,1,0,0,0,1
+Ca_24428,Salinity,1,0,0,1,0
+Ca_24440,Heat,1,0,0,0,1
+Ca_24483,Salinity,1,0,0,1,0
+Ca_24591,Heat,1,0,0,0,1
+Ca_24606,Drought,1,0,1,0,0
+Ca_24715,Heat,1,0,0,0,1
+Ca_24721,Drought,1,0,1,0,0
+Ca_24738,Heat,1,0,0,0,1
+Ca_24761,Heat,1,0,0,0,1
+Ca_24789,Salinity,1,0,0,1,0
+Ca_24803,Drought,1,0,1,0,0
+Ca_24867,Salinity,1,0,0,1,0
+Ca_24879,Salinity,1,0,0,1,0
+Ca_24890,Salinity,1,0,0,1,0
+Ca_25002,Salinity,1,0,0,1,0
+Ca_25054,Heat,1,0,0,0,1
+Ca_25110,Drought,1,0,1,0,0
+Ca_25133,Salinity,1,0,0,1,0
+Ca_25191,Salinity,1,0,0,1,0
+Ca_25223,Heat,1,0,0,0,1
+Ca_25248,Salinity,1,0,0,1,0
+Ca_25304,Drought,1,0,1,0,0
+Ca_25306,Heat,1,0,0,0,1
+Ca_25328,Heat,1,0,0,0,1
+Ca_25380,Salinity,1,0,0,1,0
+Ca_25387,Heat,1,0,0,0,1
+Ca_25421,Heat,1,0,0,0,1
+Ca_25460,Heat,1,0,0,0,1
+Ca_25491,Salinity,1,0,0,1,0
+Ca_25540,Salinity,1,0,0,1,0
+Ca_25591,Salinity,1,0,0,1,0
+Ca_25598,Drought,1,0,1,0,0
+Ca_25602,Heat,1,0,0,0,1
+Ca_25617,Heat,1,0,0,0,1
+Ca_25684,Drought,1,0,1,0,0
+Ca_25805,Heat,1,0,0,0,1
+Ca_25824,Heat,1,0,0,0,1
+Ca_25841,Heat,1,0,0,0,1
+Ca_26003,Heat,1,0,0,0,1
+Ca_26067,Heat,1,0,0,0,1
+Ca_26358,Heat,1,0,0,0,1
+Ca_26564,Drought,1,0,1,0,0
+Ca_26565,Drought,1,0,1,0,0
+Ca_26583,Drought,1,0,1,0,0
+Ca_26647,Heat,1,0,0,0,1
+Ca_26725,Salinity,1,0,0,1,0
+Ca_27079,Heat,1,0,0,0,1
+Ca_27311,Drought,1,0,1,0,0
+Ca_27433,Salinity,1,0,0,1,0
+Ca_27550,Salinity,1,0,0,1,0
+Ca_27576,Drought,1,0,1,0,0
+Ca_27664,Drought,1,0,1,0,0
+Ca_27677,Heat,1,0,0,0,1
+Ca_27751,Heat,1,0,0,0,1
+Ca_27756,Drought,1,0,1,0,0
+Ca_27757,Drought,1,0,1,0,0
+Ca_27828,Heat,1,0,0,0,1
+Ca_27887,Heat,1,0,0,0,1
+Ca_28008,Heat,1,0,0,0,1
+Ca_28263,Salinity,1,0,0,1,0
+Ca_29181,Salinity,1,0,0,1,0
+Ca_29441,Salinity,1,0,0,1,0
+Ca_29568,Salinity,1,0,0,1,0
+Ca_29712,Salinity,1,0,0,1,0
+Ca_29820,Salinity,1,0,0,1,0
+Ca_29968,Salinity,1,0,0,1,0
+Ca_30275,Salinity,1,0,0,1,0
+Ca_30821,Salinity,1,0,0,1,0
+Ca_31506,Salinity,1,0,0,1,0
+Ca_31602,Salinity,1,0,0,1,0
+Ca_31654,Salinity,1,0,0,1,0
+Ca_31725,Salinity,1,0,0,1,0
+Ca_32307,Salinity,1,0,0,1,0
+Ca_32320,Salinity,1,0,0,1,0
+Ca_32451,Salinity,1,0,0,1,0
+Ca_33216,Salinity,1,0,0,1,0
+Ca_33217,Salinity,1,0,0,1,0

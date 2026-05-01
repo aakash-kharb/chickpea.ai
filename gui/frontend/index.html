@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Chickpea.ai — Interactive genomics query interface for Cicer arietinum stress-gene analysis powered by RAG." />
+    <title>Chickpea.ai</title>
+    <link rel="icon" type="image/png" href="/favicon.png" />
+  </head>
+  <body>
+
+    <!-- ══ HOME PAGE — Landing screen ══════════════════════════ -->
+    <div id="home-page" class="home-page">
+      <div class="home-gradient-bg">
+        <div class="gradient-orb orb-drift-1 home-orb-1"></div>
+        <div class="gradient-orb orb-drift-2 home-orb-2"></div>
+        <div class="gradient-orb orb-drift-3 home-orb-3"></div>
+        <div class="gradient-orb orb-drift-4 home-orb-4"></div>
+      </div>
+
+      <div class="home-content">
+        <div class="home-hero">
+          <img src="/logo.png" alt="Chickpea.ai" class="home-logo" />
+          <h1 class="home-title">Chickpea<span class="home-title-dot">.ai</span></h1>
+          <p class="home-subtitle">Explore chickpea stress genomics with an intelligent RAG pipeline — gene profiles, expression data, sequences, and more.</p>
+        </div>
+
+        <div class="home-features">
+          <div class="home-feature-card">
+            <div class="home-feature-icon">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" fill="currentColor"/>
+              </svg>
+            </div>
+            <h3 class="home-feature-title">Gene Profiles</h3>
+            <p class="home-feature-desc">Comprehensive stress response profiles across drought, heat, cold, and salinity conditions.</p>
+          </div>
+          <div class="home-feature-card">
+            <div class="home-feature-icon">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+                <path d="M3.5 18.49l6-6.01 4 4L22 6.92l-1.41-1.41-7.09 7.97-4-4L2 16.99z" fill="currentColor"/>
+              </svg>
+            </div>
+            <h3 class="home-feature-title">Expression Data</h3>
+            <p class="home-feature-desc">Log2FC values and regulation status with interactive diverging bar visualizations.</p>
+          </div>
+          <div class="home-feature-card">
+            <div class="home-feature-icon">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+                <path d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-1 9h-4v4h-2v-4H9V9h4V5h2v4h4v2z" fill="currentColor"/>
+              </svg>
+            </div>
+            <h3 class="home-feature-title">Sequence Lookup</h3>
+            <p class="home-feature-desc">Retrieve peptide sequences and biochemical properties for any chickpea gene.</p>
+          </div>
+        </div>
+
+        <button class="home-cta" id="home-cta">
+          Start Chatting
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
+            <path d="M5 12h14M12 5l7 7-7 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+
+        <p class="home-footer-note">Powered by a three-agent RAG pipeline for Cicer arietinum transcriptomics</p>
+      </div>
+    </div>
+
+    <!-- ══ CHAT APP ════════════════════════════════════════════ -->
+    <div id="app" class="app-hidden">
+
+      <!-- Warm gradient background -->
+      <div id="gradient-bg" class="gradient-bg"></div>
+
+      <!-- ══ TOP-LEFT BRAND — always visible ══════════════════ -->
+      <div class="app-brand" id="app-brand">
+        <img src="/logo.png" alt="Chickpea.ai" class="app-brand-logo" />
+        <span class="app-brand-name">Chickpea.ai</span>
+        <span class="app-brand-sub">RAG pipeline</span>
+      </div>
+
+      <!-- ══ SIDEBAR — floating panel below brand ════════════ -->
+      <nav class="sidebar">
+        <div class="sidebar-top">
+
+          <!-- Sidebar header: toggle button + title -->
+          <div class="sidebar-brand" id="sidebar-brand">
+
+            <!-- Expand trigger (visible when collapsed) -->
+            <div class="brand-icon-wrap" id="sidebar-toggle-collapsed" title="Open sidebar" aria-label="Open sidebar" role="button" tabindex="0">
+              <svg class="sidebar-menu-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                <path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+              </svg>
+            </div>
+
+            <div class="brand-text">
+              <div class="brand-name">Analyses</div>
+            </div>
+
+            <!-- Collapse button (visible when expanded) -->
+            <button class="collapse-btn" id="sidebar-toggle-expanded" title="Collapse sidebar" aria-label="Collapse sidebar">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+                <path d="M15 18l-6-6 6-6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+
+          </div><!-- /.sidebar-brand -->
+
+          <button class="new-chat-btn" id="new-chat-btn">
+            <span class="new-chat-icon">+</span>
+            <span class="new-chat-label">New analysis</span>
+          </button>
+
+          <div class="sidebar-label">Recent</div>
+          <div class="sidebar-nav" id="history-list">
+            <p class="sidebar-empty" id="history-empty">No recent analyses</p>
+          </div>
+        </div>
+
+        <div class="sidebar-bottom">
+          <div class="backend-status">
+            <div id="backend-dot" class="status-dot checking"></div>
+            <span id="backend-label">Connecting…</span>
+          </div>
+        </div>
+      </nav>
+
+      <!-- ══ MAIN ════════════════════════════════════════════ -->
+      <div class="main-area">
+
+        <div class="output-scroll" id="output-scroll">
+          <div class="output-inner">
+
+            <!-- Welcome state -->
+            <div id="empty-state" class="empty-state">
+              <div class="welcome-greeting" id="welcome-greeting">Good morning.</div>
+              <div class="welcome-sub" id="welcome-sub"><span id="typewriter-text"></span><span class="typewriter-cursor"></span></div>
+              <div class="suggestion-chips">
+                <button class="suggestion-chip" data-query="Is Ca_00011 upregulated under heat stress?"><svg class="chip-icon" width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M15 13V5a3 3 0 0 0-6 0v8a5 5 0 1 0 6 0z" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg> Heat stress profile</button>
+                <button class="suggestion-chip" data-query="Give me 5 drought-responsive genes"><svg class="chip-icon" width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg> Drought gene list</button>
+                <button class="suggestion-chip" data-query="Compare Ca_00001 and Ca_00011 under salinity"><svg class="chip-icon" width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M16 3l4 4-4 4M20 7H4M8 21l-4-4 4-4M4 17h16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg> Compare two genes</button>
+                <button class="suggestion-chip" data-query="Show peptide sequence of Ca_00099"><svg class="chip-icon" width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M2 15c6.667-6 13.333 0 20-6M2 9c6.667 6 13.333 0 20 6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg> Sequence lookup</button>
+                <button class="suggestion-chip" data-query="What is the stress label of Ca_00500 under cold?"><svg class="chip-icon" width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M12 2v20M17.66 6.34l-3.54 3.54M20 12h-4M17.66 17.66l-3.54-3.54M6.34 17.66l3.54-3.54M4 12h4M6.34 6.34l3.54 3.54" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg> Cold stress label</button>
+                <button class="suggestion-chip" data-query="Give me genes upregulated in both heat and drought"><svg class="chip-icon" width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M18 20V10M12 20V4M6 20v-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> Multi-stress query</button>
+              </div>
+            </div>
+
+            <!-- Conversation thread -->
+            <div id="chat-thread"></div>
+
+            <!-- Stage panel -->
+            <div id="stage-panel"></div>
+
+          </div>
+        </div>
+
+        <!-- Input bar -->
+        <div class="input-bar">
+          <div class="input-container">
+            <div class="input-wrapper">
+              <textarea
+                id="query-input"
+                rows="1"
+                placeholder="Ask about a gene, stress response, or expression data…"
+                autocomplete="off"
+                spellcheck="false"
+                aria-label="Query input"
+              ></textarea>
+              <div class="input-actions">
+                <button id="examples-btn" title="Gene IDs &amp; example queries" aria-label="Show examples">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" fill="currentColor" opacity="0.6"/>
+                  </svg>
+                </button>
+                <button id="submit-btn" disabled aria-label="Submit query">
+                  <svg class="icon-submit" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                    <path d="M8 2v12M8 2L3.5 7M8 2L12.5 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                  </svg>
+                  <svg class="icon-stop" width="14" height="14" viewBox="0 0 14 14" fill="none">
+                    <rect x="2" y="2" width="10" height="10" rx="2" fill="currentColor"/>
+                  </svg>
+                </button>
+              </div>
+            </div>
+            <div class="input-meta">
+              <span id="char-counter" class="char-counter">0 / 512</span>
+              <span class="input-hint">Enter to submit · Esc to cancel · Chickpea transcriptomics only</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
